@@ -1,5 +1,7 @@
 ### Hi, I'm Chen Li
 
+<!-- profile refresh 2026-04-14 -->
+
 Applied Scientist at [SpiNNcloud Systems](https://spinncloud.com/) working on neuromorphic computing, large language models, and LLM-neuromorphic-hardware co-design.
 
 Previously Research Associate (Postdoc) at King's College London with Prof. Bipin Rajendran. Ph.D. in Computer Science from the University of Manchester, supervised by Prof. Steve Furber.
