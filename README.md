@@ -17,7 +17,7 @@ Previously Research Associate (Postdoc) at King's College London with Prof. Bipi
 
 - **Efficient Transformer Adaptation for Analog In-Memory Computing via Low-Rank Adapters** — *Neuromorphic Computing and Engineering*, 2026
 - **Heterogeneous Embedded Neural Processing Units Utilizing PCM-based Analog In-Memory Computing** — *IEDM* (Invited), 2024
-- **Unleashing the Potential of Spiking Neural Networks by Dynamic Confidence** — *ICCV*, 2023
+- **Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence** — *ICCV*, 2023
 - **Quantization Framework for Fast Spiking Neural Networks** — *Frontiers in Neuroscience*, 2022
 
 #### Links
