@@ -2,16 +2,15 @@
 
 <!-- profile refresh 2026-04-14 -->
 
-Applied Scientist at [SpiNNcloud Systems](https://spinncloud.com/) working on neuromorphic computing, large language models, and LLM-neuromorphic-hardware co-design.
+Applied Scientist at [Sparxity](https://www.sparxity.ai/) (formerly SpiNNcloud Systems), working on continual pretraining and post-training of large language models.
 
-Previously Research Associate (Postdoc) at King's College London with Prof. Bipin Rajendran. Ph.D. in Computer Science from the University of Manchester, supervised by Prof. Steve Furber.
+Previously Postdoc at King's College London with Prof. Bipin Rajendran. Ph.D. in Computer Science from the University of Manchester, supervised by Prof. Steve Furber.
 
 #### Research Interests
 
-- **Neuromorphic computing** and **spiking neural networks**
-- **Analog in-memory computing** — LoRA adaptation, hardware-aware training
-- **Large language models** — efficient attention, post-training sparsity
-- **Full-stack AI** — algorithms to devices to deployment
+- **Continual pretraining** and **post-training** of large language models
+- **Reasoning** and **self-improvement** of LLMs
+- **Hardware-algorithm co-design** — analog in-memory computing and neuromorphic hardware
 
 #### Selected Publications
 
