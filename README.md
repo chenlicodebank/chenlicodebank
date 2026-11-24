@@ -2,15 +2,15 @@
 
 <!-- profile refresh 2026-04-14 -->
 
-Applied Scientist at [Sparxity](https://www.sparxity.ai/) (formerly SpiNNcloud Systems), working on continual pretraining and post-training of large language models.
+Applied Scientist at [Sparxity](https://www.sparxity.ai/) (formerly SpiNNcloud Systems), working on architecture retrofitting and post-training of large language models.
 
 Previously Postdoc at King's College London with Prof. Bipin Rajendran. Ph.D. in Computer Science from the University of Manchester, supervised by Prof. Steve Furber.
 
 #### Research Interests
 
-- **Continual pretraining** and **post-training** of large language models
-- **Reasoning** and **self-improvement** of LLMs
-- **Hardware-algorithm co-design** — analog in-memory computing and neuromorphic hardware
+- **Post-training** of large language models with reinforcement learning
+- **Self-improvement** of LLMs
+- **Decoding methods** for LLMs
 
 #### Selected Publications
 
